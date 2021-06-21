@@ -17,5 +17,8 @@
         position: fixed;
         bottom: 0;
         display: flex;
+        box-shadow: 0 -1px 5px rgba(0, 0, 0, .3);
+        padding-top: 5px;
+        background-color: #f6f6f6;
     }
 </style>

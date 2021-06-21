@@ -39,9 +39,13 @@
 </script>
 
 <style scoped>
+    .item:hover{
+    cursor: pointer;
+    }
     .imgitem img{
         width: 24px;
         height: 24px;
+        vertical-align: top;
     }
     .textitem{
         font-size: 14px;
